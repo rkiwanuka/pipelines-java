@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/robertkiwanuka/MS%20Javatest/_apis/build/status/rkiwanuka.pipelines-java?branchName=master)](https://dev.azure.com/robertkiwanuka/MS%20Javatest/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
